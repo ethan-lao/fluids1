@@ -1,0 +1,12 @@
+Names:
+Ethan Lao
+
+Compilation instructions:
+mkdir build
+cd build
+cmake ..
+make -j 8
+
+Run instructions:
+cd build
+./fluid_project
